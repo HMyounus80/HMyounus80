@@ -45,7 +45,7 @@ From Chittagong, Bangladesh
 
 <br />
 <br />
-<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
+<img width="550px" alt="MD YUOUNUS Github Stats"  src="https://github-readme-stats.vercel.app/api?username=HMyounus80&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=HMyounus80&card_width=550)](https://github.com/HMyounus80/HMyounus80)
 
